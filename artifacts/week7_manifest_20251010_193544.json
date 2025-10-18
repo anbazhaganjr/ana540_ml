@@ -1,0 +1,20 @@
+{
+  "timestamp": "20251010_193544",
+  "metrics_csv": {
+    "classification": "artifacts/metrics/week7_task1_classification_20251010_193538.csv",
+    "regression": "artifacts/metrics/week7_task1_regression_20251010_193538.csv"
+  },
+  "figures": {
+    "confusion_matrices": {
+      "Logistic Regression": "artifacts/figures/week7_cm_Logistic_Regression_20251010_193544.png",
+      "Random Forest (CLS)": "artifacts/figures/week7_cm_Random_Forest_CLS_20251010_193544.png",
+      "Decision Tree (CLS)": "artifacts/figures/week7_cm_Decision_Tree_CLS_20251010_193544.png"
+    },
+    "roc": "artifacts/figures/week7_roc_20251010_193544.png",
+    "regression_scatter": {
+      "Ridge (REG)": "artifacts/figures/week7_reg_scatter_Ridge_REG_20251010_193544.png",
+      "Random Forest (REG)": "artifacts/figures/week7_reg_scatter_Random_Forest_REG_20251010_193544.png",
+      "Elastic Net (REG)": "artifacts/figures/week7_reg_scatter_Elastic_Net_REG_20251010_193544.png"
+    }
+  }
+}
