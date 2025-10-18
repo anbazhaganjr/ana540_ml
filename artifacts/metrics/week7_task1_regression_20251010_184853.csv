@@ -1,0 +1,4 @@
+model,mae,rmse,r2
+Ridge (REG),0.001100,0.003000,0.000000
+Random Forest (REG),0.001100,0.003000,0.000200
+Elastic Net (REG),0.001100,0.003000,-0.000100

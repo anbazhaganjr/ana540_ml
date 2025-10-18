@@ -1,0 +1,29 @@
+{
+  "cv": {
+    "folds": "artifacts/cv/week7_cls_cv_folds.csv",
+    "tuning_symbols": "artifacts/cv/week7_cls_tuning_symbols.csv"
+  },
+  "classification": {
+    "cv_baselines": "artifacts/metrics/week7_cls_cv_baselines_20251015_145934.csv",
+    "cv_logreg": "artifacts/metrics/week7_cls_cv_grid_logreg_20251015_151251.csv",
+    "cv_rf": "artifacts/metrics/week7_cls_cv_grid_rf_20251015_152102.csv",
+    "cv_tree": "artifacts/metrics/week7_cls_cv_grid_tree_20251015_170621.csv",
+    "best_params_json": "artifacts/metrics/week7_cls_best_params.json",
+    "final_metrics": "artifacts/metrics/week7_cls_final_metrics_20251015_173126.csv",
+    "per_symbol_metrics": "artifacts/metrics/week7_cls_per_symbol_metrics_20251015_173126.csv",
+    "predictions": "artifacts/predictions/week7_cls_predictions_20251015_173126.parquet",
+    "fig_confusion": "artifacts/figures/week7_cls_confusion_matrix_rf.png",
+    "fig_roc": "artifacts/figures/week7_cls_roc_rf.png"
+  },
+  "regression": {
+    "cv_baselines": "artifacts/metrics/week7_reg_cv_baselines_20251015_174525.csv",
+    "cv_ridge": "artifacts/metrics/week7_reg_cv_grid_ridge_20251015_175628.csv",
+    "cv_rf": "artifacts/metrics/week7_reg_cv_grid_rf_20251015_175642.csv",
+    "best_params_json": "artifacts/metrics/week7_reg_best_params.json",
+    "final_metrics": "artifacts/metrics/week7_reg_final_metrics_20251015_213916.csv",
+    "per_symbol_metrics": "artifacts/metrics/week7_reg_per_symbol_metrics_20251015_213916.csv",
+    "predictions": "artifacts/predictions/week7_reg_predictions_20251015_213916.parquet",
+    "fig_residuals": "artifacts/figures/week7_reg_residuals_rf.png",
+    "fig_error_hist": "artifacts/figures/week7_reg_error_hist_rf.png"
+  }
+}

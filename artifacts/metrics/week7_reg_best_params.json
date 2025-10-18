@@ -1,0 +1,11 @@
+{
+  "ridge": {
+    "alpha": 10.0
+  },
+  "rf": {
+    "n_estimators": 400,
+    "max_depth": 8,
+    "min_samples_leaf": 5,
+    "max_features": "sqrt"
+  }
+}
