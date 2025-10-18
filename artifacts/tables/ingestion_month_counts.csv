@@ -1,0 +1,13 @@
+year,month,path,rows
+2024,1,/Users/anbzhnjr/learning/DataAnalytics/ml_540/final_project/data/parquet/year=2024/month=01/bars_5min_2024-01.parquet,695752
+2024,2,/Users/anbzhnjr/learning/DataAnalytics/ml_540/final_project/data/parquet/year=2024/month=02/bars_5min_2024-02.parquet,576236
+2024,3,/Users/anbzhnjr/learning/DataAnalytics/ml_540/final_project/data/parquet/year=2024/month=03/bars_5min_2024-03.parquet,616630
+2024,4,/Users/anbzhnjr/learning/DataAnalytics/ml_540/final_project/data/parquet/year=2024/month=04/bars_5min_2024-04.parquet,643676
+2024,5,/Users/anbzhnjr/learning/DataAnalytics/ml_540/final_project/data/parquet/year=2024/month=05/bars_5min_2024-05.parquet,694080
+2024,6,/Users/anbzhnjr/learning/DataAnalytics/ml_540/final_project/data/parquet/year=2024/month=06/bars_5min_2024-06.parquet,539299
+2024,7,/Users/anbzhnjr/learning/DataAnalytics/ml_540/final_project/data/parquet/year=2024/month=07/bars_5min_2024-07.parquet,697919
+2024,8,/Users/anbzhnjr/learning/DataAnalytics/ml_540/final_project/data/parquet/year=2024/month=08/bars_5min_2024-08.parquet,614333
+2024,9,/Users/anbzhnjr/learning/DataAnalytics/ml_540/final_project/data/parquet/year=2024/month=09/bars_5min_2024-09.parquet,643004
+2024,10,/Users/anbzhnjr/learning/DataAnalytics/ml_540/final_project/data/parquet/year=2024/month=10/bars_5min_2024-10.parquet,638973
+2024,11,/Users/anbzhnjr/learning/DataAnalytics/ml_540/final_project/data/parquet/year=2024/month=11/bars_5min_2024-11.parquet,666686
+2024,12,/Users/anbzhnjr/learning/DataAnalytics/ml_540/final_project/data/parquet/year=2024/month=12/bars_5min_2024-12.parquet,502866
