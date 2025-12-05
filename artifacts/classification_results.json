@@ -1,0 +1,48 @@
+{
+  "results": {
+    "Logistic Regression": {
+      "roc_auc": 0.5173606390168358,
+      "accuracy": 0.52114898989899
+    },
+    "Decision Tree": {
+      "roc_auc": 0.5078960375669279,
+      "accuracy": 0.522885101010101
+    },
+    "Random Forest": {
+      "roc_auc": 0.5363507909155067,
+      "accuracy": 0.5334595959595959
+    }
+  },
+  "confusion_matrices": {
+    "Logistic Regression": [
+      [
+        562,
+        2499
+      ],
+      [
+        535,
+        2740
+      ]
+    ],
+    "Decision Tree": [
+      [
+        639,
+        2422
+      ],
+      [
+        601,
+        2674
+      ]
+    ],
+    "Random Forest": [
+      [
+        860,
+        2201
+      ],
+      [
+        755,
+        2520
+      ]
+    ]
+  }
+}
